@@ -17,7 +17,7 @@ import java.util.ArrayList;
 public class SQLTools{
 	
 	//url of database 
-	private static String url = "jdbc:sqlite:C:/Users/witherherobrine/Desktop/Program_Languages/Java/Projects/Inventory/db/inventory.db";
+	private static String url = "";
 	
 	//current working table
 	private static String currentDB = "inventory";
